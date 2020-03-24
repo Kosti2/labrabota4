@@ -1,0 +1,644 @@
+Script started on 2020-03-24 09:06:14+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+Privet,Dima!
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ script -tto[Kimolog.t4.t[C[Cxt
+Скрипт запущен, файл — typescript
+Privet,Dima!
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ touch request.txt
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ nano request.txt
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 4.3                       request.txt                                [1;79H(B[m[23d(B[0;7m^G(B[m Помощь    (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[24d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[2d[39;49m(B[m[?12l[?25h[?25l[1;72H(B[0;7mИзменён(B[m[2dV[?12l[?25h[?25lo[?12l[?25h[?25lt[?12l[?25h[?25l[3d[?12l[?25h[?25lT[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25l [?12l[?25h[?25l[4d[?12l[?25h[?25lE[?12l[?25h[?25lT[?12l[?25h[?25lO[?12l[?25h[?25l[5d[?12l[?25h[?25lB[?12l[?25h[?25lY[?12l[?25h[?25lD[?12l[?25h[?25lE[?12l[?25h[?25lT[?12l[?25h[?25l[6d[?12l[?25h[?25lS[?12l[?25h[?25lM[?12l[?25h[?25lO[?12l[?25h[?25lT[?12l[?25h[?25lR[?12l[?25h[?25lE[?12l[?25h[?25lT[22d[K[6;8H[?12l[?25h[?25ls[?12l[?25h[?25ly[?12l[?25h[?25la[?12l[?25h[?25l[7d[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25lf[?12l[?25h[?25ls[?12l[?25h[?25lg[?12l[?25h[?25lf[?12l[?25h[?25ld[?12l[?25h[?25l[8d[?12l[?25h[?25lg[?12l[?25h[?25ld[?12l[?25h[?25lf[?12l[?25h[?25lg[?12l[?25h[?25l[9d[?12l[?25h[?25lf[?12l[?25h[?25lg[?12l[?25h[?25l[10d[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25l[11d[?12l[?25h[?25ly[?12l[?25h[?25lt[?12l[?25h[?25lr[?12l[?25h[?25l[12d[?12l[?25h[?25ly[?12l[?25h[?25lw[?12l[?25h[?25l[13d[?12l[?25h[?25lt[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25lh[?12l[?25h[?25lr[?12l[?25h[?25lt[?12l[?25h[?25li[?12l[?25h[?25lu[?12l[?25h[?25lt[?12l[?25h[?25l8[?12l[?25h[?25ly[?12l[?25h[?25li[?12l[?25h[?25l[16d[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25lf[?12l[?25h[?25ls[?12l[?25h[?25lr[?12l[?25h[?25lg[?12l[?25h[?25lt[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25lt[?12l[?25h[?25ly[?12l[?25h[?25lr[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25lf[?12l[?25h[?25ld[?12l[?25h[?25lh[?12l[?25h[?25lf[?12l[?25h[?25lj[?12l[?25h[?25ld[?12l[?25h[?25lf[?12l[?25h[?25lb[?12l[?25h[?25lx[?12l[?25h[?25lv[?12l[?25h[?25ls[?12l[?25h[?25ld[?12l[?25h[?25ls[?12l[?25h[?25l[17d[?12l[?25h[?25lf[?12l[?25h[?25lg[?12l[?25h[?25ld[?12l[?25h[?25lt[?12l[?25h[?25lr[?12l[?25h[?25lu[?12l[?25h[?25lt[?12l[?25h[?25ly[?12l[?25h[?25l8[?12l[?25h[?25l9[?12l[?25h[?25lr[?12l[?25h[?25ly[?12l[?25h[?25ld[?12l[?25h[?25lt[?12l[?25h[?25lr[?12l[?25h[?25l[18d[?12l[?25h[?25l4[?12l[?25h[?25l5[?12l[?25h[?25l4[?12l[?25h[?25l6[?12l[?25h[?25l5[?12l[?25h[?25l8[?12l[?25h[?25l5[?12l[?25h[?25l8[?12l[?25h[?25l9[?12l[?25h[?25l[19d[?12l[?25h[?25l6[?12l[?25h[?25l4[?12l[?25h[?25l7[?12l[?25h[?25l7[?12l[?25h[?25l5[?12l[?25h[?25l9[?12l[?25h[?25lg[?12l[?25h[?25lf[?12l[?25h[?25ld[?12l[?25h[?25l[20d[?12l[?25h[?25ld[?12l[?25h[?25lh[?12l[?25h[?25lb[?12l[?25h[?25lg[?12l[?25h[?25lf[?12l[?25h[?25lh[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m Формат DOS      (B[0;7mM-A(B[m Доп. в начало   (B[0;7mM-B(B[m Резерв. копия[24;2H(B[0;7mC(B[m Отмена           (B[0;7mM-M(B[m Формат Mac      (B[0;7mM-P(B[m Доп. в конец    (B[0;7m^T(B[m К файлам[K[22d(B[0;7mИмя файла для записи: request.txt                                               [22;1H(B[m[22;34H[?12l[?25h[?25l[K[1;79H[22;34H(B[0;7m[ Writing... ](B[m[1;72H(B[0;7m       (B[m[22;32H(B[0;7m[ Wrote 19 lines ](B[m[23;14H(B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[K[24;2H(B[0;7mX(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[20;7H[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cat request.txt
+Vot
+Tak 
+ETO
+BYDET
+SMOTRETsya
+sdfsgfd
+gdfg
+fg
+sd
+ytr
+yw
+t
+sdfsrgtertyr
+rehrtiut8yi
+fdhfjdfbxvsds
+fgdtruty89rydtr
+454658589
+647759gfd
+dhbgfh
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ head -n 5 request.txt
+Vot
+Tak 
+ETO
+BYDET
+SMOTRETsya
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ tail -n 5 request.txt
+fdhfjdfbxvsds
+fgdtruty89rydtr
+454658589
+647759gfd
+dhbgfh
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ md[Kkdir work [Kdir
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ls -ltr
+итого 36
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:15 [0m[01;34mnewestfolder[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  7 12:17 [01;34mtemp[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  9 13:00 [01;34mnewestfolde[0m
+drwxr-xr-x 3 kosti kosti 4096 сак 12 18:59 [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti kosti 4096 сак 24 09:08 task4log.txt
+-rw-r--r-- 1 kosti kosti 4096 сак 24 09:08 typescript
+-rw-r--r-- 1 kosti kosti  140 сак 24 09:08 request.txt
+-rw-r--r-- 1 kosti kosti 4096 сак 24 09:10 timolog4.txt
+drwxr-xr-x 2 kosti kosti 4096 сак 24 09:10 [01;34mworkdir[0m
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cla[Kear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cp request.txt workdir
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ mv request.txt request.bal
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ mv[K[Kmv request.txt request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[1P request.bal[C[C[C[C[C[C[C[C[C[C[C[C request.bak
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ mv  request.bal request.bak[K[K[K[K[K[K[K[K[K[K[Kworkdir
+mv: не удалось выполнить stat для 'request.bal': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ mv  request.bal workdir[1P workdirk workdir
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ls -l workdir
+итого 8
+-rw-r--r-- 1 kosti kosti 140 сак 24 09:08 request.bak
+-rw-r--r-- 1 kosti kosti 140 сак 24 09:12 request.txt
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/workdir/request.txt
+ln: не удалось получить доступ к '/home/kosti/workdir/request.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln workd[K[K[K[K[K/workdir/request.tx
+ln: не удалось получить доступ к '/workdir/request.tx': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln /workdir/request.txt
+ln: не удалось получить доступ к '/workdir/request.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/^V[K[K/~/Рабочий стол[C[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C/workdir/request.txt
+ln: не удалось получить доступ к '/home/kosti/Рабочий': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/Рабочий стол/workdir/request.txt[C[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txt[1P/workdir/request.txtd/workdir/request.txte/workdir/request.txts/workdir/request.txtc/workdir/request.txt[1P/workdir/request.txtc/workdir/request.txtt/workdir/request.txto/workdir/request.txtp/workdir/request.txt
+ln: не удалось получить доступ к '/home/kosti/desctop/workdir/request.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/desctop/workdir/request.txt[C[C[1Ptop/workdir/request.txtktop/workdir/request.txt
+ln: не удалось получить доступ к '/home/kosti/desktop/workdir/request.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clearln ~/desktop/workdir/request.txtctop/workdir/request.txtРабочий стол/workdir/request.txt[14P/workdir/request.txt[Kclear[Kln ~/workdir/request.txt
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/workdir/request.txt rq[Keq.txt
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln ~/workdir/request.txt req.txt[K[K[K[K[K[K[K[K[K[K[Kbak-~/workdir/request.baks~/workdir/request.bak ~/workdir/request.bak
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ ln -s ~/workdir/request.bak[K[K[K[K[K[K[K[K[K[K[K work
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ readlink work
+/home/kosti/workdir/
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ vim request.txt
+
+Команда «vim» не найдена, но может быть установлена с помощью:
+
+sudo apt install vim         # version 2:8.1.0875-5ubuntu2, or
+sudo apt install vim-tiny    # version 2:8.1.0875-5ubuntu2
+sudo apt install neovim      # version 0.3.8-1
+sudo apt install vim-athena  # version 2:8.1.0875-5ubuntu2
+sudo apt install vim-gtk     # version 2:8.1.0875-5ubuntu2
+sudo apt install vim-gtk3    # version 2:8.1.0875-5ubuntu2
+sudo apt install vim-nox     # version 2:8.1.0875-5ubuntu2
+
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cd ~
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ci request.txt
+
+Команда «ci» не найдена, но может быть установлена с помощью:
+
+sudo apt install rcs
+
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ci request.txt[1P[1@v
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"request.txt" [New File][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?2004l[?25l[mr[?25h[?25l[?25h[?25le[?25h[?25le[?25h[?25l[?25h[?25lx[?25h[?25li[?25h[?25lt[?25h[?25l[2;1H[K[2;1H[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[24;1H[K[2;2H[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HB[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HA[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?2004h[?2004l[?25l[2;23r[2;1H[L[1;24r[2;1HC[?25h[?20Script started on 2020-03-24 09:24:35+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+Privet,Dima!
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ script -f[Ka -tti[K[Ktimolog4.txt
+Скрипт запущен, файл — typescript
+Privet,Dima!
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cd~
+
+Команда «cd~» не найдена. Возможно, вы имели в виду:
+
+  command 'cdw' from deb cdw (0.8.1-1build4)
+  command 'cdi' from deb cdo (1.9.7.1-4)
+  command 'cd5' from deb cd5 (0.1-4)
+  command 'cdo' from deb cdo (1.9.7.1-4)
+  command 'cdb' from deb tinycdb (0.78build1)
+  command 'cdp' from deb irpas (0.10-7)
+  command 'cdv' from deb codeville (0.8.0-2.1)
+  command 'cde' from deb cde (0.1+git9-g551e54d-1.1build1)
+
+Try: sudo apt install <deb name>
+
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ cd ~
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ nano request.txt
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22d(B[0;7mФайл _ уже редактируется (пользователем kosti в VIM 8.1, PID 4131). Продолжить? [23;1H Y(B[m Да[24d(B[0;7m N(B[m Нет[24;17H(B[0;7m^C(B[m Отмена[22;80H[?12l[?25h[?25l[H(B[0;7m  GNU nano 4.3                       Новый буфер                                [22;1H(B[m[K[1;79H[22;16H(B[0;7m[ Welcome to nano.  For basic help, type Ctrl+G. ](B[m[23d(B[0;7m^G(B[m Помощь    (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[24d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m Формат DOS      (B[0;7mM-A(B[m Доп. в начало   (B[0;7mM-B(B[m Резерв. копия[24;2H(B[0;7mC(B[m Отмена           (B[0;7mM-M(B[m Формат Mac      (B[0;7mM-P(B[m Доп. в конец    (B[0;7m^T(B[m К файлам[K[22d(B[0;7mИмя файла для записи:                                                           [22;1H(B[m[22;23H[?12l[?25h[?25l[22;34H[1K (B[0;7m[ Отменено ](B[m[K[23;14H(B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[K[24;2H(B[0;7mX(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[2d[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ vim work[K[K[K[K/workdir/[1P /workdir/[C[C[C[C[C[C[C[C[C[Cnano request.txt[4Pvi /workdir/request.txt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"/workdir/request.txt" [New DIRECTORY][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"/workdir/request.txt"
+[97m[41m"/workdir/request.txt" E212: Can't open file for writing[?2004h[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[2;1H[94m~                                                                               [m[24;1H[K[1;1H[?25h[?25l[24;1H:[?2004h[?25hwd[?25l[24;3H[K[24;3H[?25hq[?25l[?2004l"/workdir/request.txt"
+[97m[41m"/workdir/request.txt" E212: Can't open file for writing[?2004h[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[2;1H[94m~                                                                               [m[24;1H[K[1;1H[?25h[?25l[24;1H:[?2004h[?25hwq[?25l[?2004l"/workdir/request.txt"
+[97m[41m"/workdir/request.txt" E212: Can't open file for writing[?2004h[m
+[32mPress ENTER or type command to continue[?25h[m[1;1H[2L[?25l[2;1H[94m~                                                                               [m[24;1H[K[1;1H[?25h[?25l[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls
+ [0m[01;34mkostyanko[0m                     test      [01;34mДокументы[0m     [01;34mМузыка[0m          [01;34mШаблоны[0m[K
+ [01;34mlinux-labraboty-2020-Kosti2[0m   [01;34mworkdir[0m   [01;34mЗагрузки[0m      [01;34mОбщедоступные[0m[K
+ README.md                     [01;34mВидео[0m     [01;34mИзображения[0m  [01;34m'Рабочий стол'[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ nano /workdir.re[K[K[K?r[K[K/request.txt
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;21H(B[0;1m[37m[41m[ Директория '/workdir' не существует ][39;49m(B[m[H(B[0;7m  GNU nano 4.3                  /workdir/request.txt                            [1;79H(B[m[23d(B[0;7m^G(B[m Помощь    (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[24d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[2d[39;49m(B[m[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m Формат DOS      (B[0;7mM-A(B[m Доп. в начало   (B[0;7mM-B(B[m Резерв. копия[24;2H(B[0;7mC(B[m Отмена           (B[0;7mM-M(B[m Формат Mac      (B[0;7mM-P(B[m Доп. в конец    (B[0;7m^T(B[m К файлам[K[22d(B[0;7mИмя файла для записи: /workdir/request.txt                                      [22;1H(B[m[22;43H[?12l[?25h[?25l[22;43H[?12l[?25h[?25l[22;34H[1K (B[0;7m[ Отменено ](B[m[K[23;14H(B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[K[24;2H(B[0;7mX(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Paste Text(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[2d[?12l[?25h[?25l[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ nano /workdir/request.txtls[Kvi /workdir/request.txt~/workdir/request.txt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"~/workdir/request.txt" 19 lines, 140 characters[1;1HVot
+Tak
+ETO
+BYDET
+SMOTRETsya
+sdfsgfd
+gdfg
+fg
+sd
+ytr
+yw
+t
+sdfsrgtertyr
+rehrtiut8yi
+fdhfjdfbxvsds
+fgdtruty89rydtr
+454658589
+647759gfd
+dhbgfh
+[94m~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ vi ~/workdir/request.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/work/rquestequest[C[C[C[C[C.txt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"/work/request.txt" [New DIRECTORY][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ vi /work/request.txt~/work/request.txt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"~/work/request.txt" [New DIRECTORY][2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cd /work
+bash: cd: /work: Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cd /work~/work
+bash: cd: /home/kosti/work: Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls[Knln /~workdir?[K/request.txt
+lnln: команда не найдена
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ lnln /~workdir/request.txt[1P[1P
+ln: не удалось получить доступ к '/~workdir/request.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ln /~workdir/request.txt[1Pworkdir/request.txt~/workdir/request.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ln ~/workdir/request.txt rq[Keq.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ln -s ~/workdir/request.bak
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ln -s ~/workdir/ work
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ readlink work
+/home/kosti/workdir/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ vi rquest.tequest.t[C[C[C[C[C[C[Cxt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name ".request.txt.swp"
+[10Cowned by: kosti   dated: Tue Mar 24 09:24:12 2020
+[9Cfile name: ~kosti/request.txt
+[10Cmodified: YES
+[9Cuser name: kosti   host name: kosti-VirtualBox
+[8Cprocess ID: 4131
+While opening file "request.txt"
+[13Cdated: Tue Mar 24 09:12:21 2020
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r request.txt"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".request.txt.swp"
+    to avoid this message.
+
+"request.txt"[23;1H"request.txt" 19 lines, 140 characters[24;1H[K[24;1H[32mPress ENTER or type command to continue[?25h[m[1;1H[19L[?25l[1;1HVot
+Tak
+ETO
+BYDET
+SMOTRETsya
+sdfsgfd
+gdfg
+fg
+sd
+ytr
+yw
+t
+sdfsrgtertyr
+rehrtiut8yi
+fdhfjdfbxvsds
+fgdtruty89rydtr
+454658589
+647759gfd
+dhbgfh
+[94m~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;1H[K[1;1H[?25h
+
+[?25l[24;1H:[?2004h[?25hQ[?25l[97m[41mE492: Not an editor command: Q[3;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hQ[?25l[97m[41mE492: Not an editor command: Q[3;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ vi ~/work/w[Kreques[Kst/[K.txt
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"~/work/request.txt" 19 lines, 140 characters[1;1HVot
+Tak
+ETO
+BYDET
+SMOTRETsya
+sdfsgfd
+gdfg
+fg
+sd
+ytr
+yw
+t
+sdfsrgtertyr
+rehrtiut8yi
+fdhfjdfbxvsds
+fgdtruty89rydtr
+454658589
+647759gfd
+dhbgfh
+[94m~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[24;1H[K[24;1H[?2004l[?1l>[?25h[?1049l[23;0;0t]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cd workdir
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ c[Kcd~
+
+Команда «cd~» не найдена. Возможно, вы имели в виду:
+
+  command 'cdb' from deb tinycdb (0.78build1)
+  command 'cd5' from deb cd5 (0.1-4)
+  command 'cdp' from deb irpas (0.10-7)
+  command 'cdw' from deb cdw (0.8.1-1build4)
+  command 'cdo' from deb cdo (1.9.7.1-4)
+  command 'cdv' from deb codeville (0.8.0-2.1)
+  command 'cdi' from deb cdo (1.9.7.1-4)
+  command 'cde' from deb cde (0.1+git9-g551e54d-1.1build1)
+
+Try: sudo apt install <deb name>
+
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ cd~[C ~
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cd workdir
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ touch big.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ cd
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls ~/workdir/big.txt
+/home/kosti/workdir/big.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -s ~/workdir/big.txt
+0 /home/kosti/workdir/big.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -i
+1311767  [0m[01;34mkostyanko[0m                    1310772  [01;34mВидео[0m
+1312287  [01;34mlinux-labraboty-2020-Kosti2[0m  1310769  [01;34mДокументы[0m
+1311638  README.md                    1310766  [01;34mЗагрузки[0m
+1313060  req.txt                      1310771  [01;34mИзображения[0m
+1313066  [01;36mrequest.bak[0m                  1310770  [01;34mМузыка[0m
+1313060  request.txt                  1310768  [01;34mОбщедоступные[0m
+1310851  test                         1310761 [01;34m'Рабочий стол'[0m
+1313068  [01;36mwork[0m                         1310767  [01;34mШаблоны[0m
+1313058  [01;34mworkdir[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cd workdir
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ ls -i
+1313062 big.txt  1313061 request.bak  1313060 request.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ inlink rq[Kequest.txt
+
+Команда «inlink» не найдена. Возможно, вы имели в виду:
+
+  command 'unlink' from deb coreutils (8.30-3ubuntu2)
+  command 'ilink' from deb fastlink (4.1P-fix100+dfsg-2)
+
+Try: sudo apt install <deb name>
+
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ inlink request.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ clearinlink request.txt[C[1P[1@u
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ unlink request.txt[K[K[Kbac[Kk
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ touck[Kh letr[Kter.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ chown student[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo useradd student
+[sudo] пароль для kosti: 
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ sudo chown student letter.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ sudo chown student letter.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgroupadd vixi[K[Ksitors
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ sudo chgrp visitors letter.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ ls -l
+итого 0
+-rw-r--r-- 1 kosti   kosti    0 сак 24 09:35 big.txt
+-rw-r--r-- 1 student visitors 0 сак 24 09:40 letter.txt
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ c[Ksudo usedel student
+sudo: usedel: команда не найдена
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ sudo usedel student[1@r
+]0;kosti@kosti-VirtualBox: ~/workdir[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/workdir[00m$ cd ~
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ to[K[Kclear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch letter.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo useradd student
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chown student letter.rxt[K[K[Ktxt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chown student letter.txt[9Puseradd student[4Ptouch letter.txtclear[K[1Pd ~sudo userdel student[1P[C[C[C[C[C[C[C[C[C[C[Cls -l[Ksudo chgrp visitors letter.txt[8Pgroupadd visitors
+groupadd: группа «visitors» уже существует
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo gropdel[Kupde[C[C[Cl visitors
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo groupdel visitorsadd[C[C[C[C[C[C[C[C[C
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo groupadd visitorsdel[C[C[C[C[C[C[C[C[Cadd[C[C[C[C[C[C[C[C[Cchown student letter.txt[9Puseradd student[4Ptouch letter.txtclear[K[1Pd ~sudo userdel student[1P[C[C[C[C[C[C[C[C[C[C[Cls -l[Ksudo chgrp visitors letter.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -l
+итого 60
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [0m[01;34mkostyanko[0m
+-rw-r--r-- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ cla[Kear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod ug+r letter.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod ug+r letter.txt[1P letter.txt[1P letter.txt[1P letter.txt[1P letter.txto letter.txt- letter.txtr letter.txtw letter.txtx letter.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask
+0022
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask -S
+u=rwx,g=rx,o=rx
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask -S[K 002[K02
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask 0002[2P-S[K -S
+u=rwx,g=rwx,o=rx
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touck[Kh 111.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 111.txt[1P.txt[1P.txt[1P.txt2.txt2.txt2.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 222.txt[1P.txt[1P.txt[1P.txt3.txt3.txt3.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 333.txt[C[1P.txt[1P.txt[1P.txt4.txt4.txt4.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 700 111.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 700 111.txt[1P.txt[1P.txt[1P.txt2.txt2.txt2.txt[1P 222.txt[1P 222.txt[1P 222.txt6 222.txt4 222.txt7 222.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 647 222.txt[1P.txt[1P.txt[1P.txt3.txt3.txt3.txt[1P 333.txt[1P 333.txt[1P 333.txt3 333.txt0 333.txt0 333.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 300 333.txt[1P 333.txt4 333.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 304 333.txt[1P 333.txt[1P 333.txt[1P 333.txt2 333.txt7 333.txt2 333.txt[C[C[C[C[1P.txt[1P.txt[1P.txt4.txt4.txt4.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -l
+итого 60
+-rwx------ 1 kosti   kosti       0 сак 24 09:49  [0m[01;32m111.txt[0m
+-rw-r--rwx 1 kosti   kosti       0 сак 24 09:49  [01;32m222.txt[0m
+--wx---r-- 1 kosti   kosti       0 сак 24 09:50  [01;32m333.txt[0m
+--w-rwx-w- 1 kosti   kosti       0 сак 24 09:50  [01;32m444.txt[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [01;34mkostyanko[0m
+-rw-r----- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod u=rwx,g-rwx,o-w[Krwx 111.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod u=rwx,g-rwx,o-rwx 111.txt[1P[C[C[C[C[C[C[1P[1P[C[C[C[C[C[C[C[C[C[C[1P.txt[1P.txt[1P.txt2.txt2.txt2.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod u=rw,g-r,o-rwx 222.txt[1P[1@-[1P[1@=[C[C[C[C[1P[1@=
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod u=rw,g=r,o=rwx 222.txt[1P.txt[1P.txt[1P.txt3.txt3.txt3.txt[1P[1P[1@w[1@x[C[C[C[C[1P[1@-[C[1@w[1@x[C[C[C[C[C[C[1P 333.txt[1P 333.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod u=wx,g-rwx,o=r 333.txt[1P[C[C[C[1P[1@=[C[C[C[C[C[C[C[C[1P 333.txtw 333.txt[C[C[C[C[1P.txt[1P.txt[1P.txt4.txt4.txt4.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ;[Kls -l
+итого 60
+-rwx------ 1 kosti   kosti       0 сак 24 09:49  [0m[01;32m111.txt[0m
+-rw-r--rwx 1 kosti   kosti       0 сак 24 09:49  [01;32m222.txt[0m
+--wx---r-- 1 kosti   kosti       0 сак 24 09:50  [01;32m333.txt[0m
+--w-rwx-w- 1 kosti   kosti       0 сак 24 09:50  [01;32m444.txt[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [01;34mkostyanko[0m
+-rw-r----- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ 5675714
+5675714: команда не найдена
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 555.r[Ktxt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 555.txt[1P.txt[1P.txt[1P.txt6.txt6.txt6.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 666.txt[1P.txt[1P.txt[1P.txt7.txt7.txt7.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 567 555.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 567 555.txt[C[1P 555.txt[1P 555.txt[1P 555.txt0 555.txt5 555.txt7 555.txt[C[C[C[C[1P.txt[1P.txt[1P.txt6.txt6.txt6.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo chmod 057 666.txt[1P 666.txt[1P 666.txt1 666.txt2 666.txt[1P 666.txt4 666.txt[C[C[C[C[1P.txt[1P.txt[1P.txt7.txt7.txt7.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -l
+итого 60
+-rwx------ 1 kosti   kosti       0 сак 24 09:49  [0m[01;32m111.txt[0m
+-rw-r--rwx 1 kosti   kosti       0 сак 24 09:49  [01;32m222.txt[0m
+--wx---r-- 1 kosti   kosti       0 сак 24 09:50  [01;32m333.txt[0m
+--w-rwx-w- 1 kosti   kosti       0 сак 24 09:50  [01;32m444.txt[0m
+-r-xrw-rwx 1 kosti   kosti       0 сак 24 09:55  [01;32m555.txt[0m
+----r-xrwx 1 kosti   kosti       0 сак 24 09:55  [01;32m666.txt[0m
+------xr-- 1 kosti   kosti       0 сак 24 09:55  [01;32m777.txt[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [01;34mkostyanko[0m
+-rw-r----- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 888.txtt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ touch 888.txtt[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear[K[K[K[K[Kdel clear[K[K[K[K[Krm 888.txtt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clearrm 888.txtt[7Pdel clearls -lsudo chmod 014 777.txtls -l[Kclear[1Pdel rm 888.txtt[K
+rm: невозможно удалить '888.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm 888.txt[1P 888.txt[1P 888.txtt 888.txto 888.txtu 888.txtc 888.txth 888.txt
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -l
+итого 60
+-rwx------ 1 kosti   kosti       0 сак 24 09:49  [0m[01;32m111.txt[0m
+-rw-r--rwx 1 kosti   kosti       0 сак 24 09:49  [01;32m222.txt[0m
+--wx---r-- 1 kosti   kosti       0 сак 24 09:50  [01;32m333.txt[0m
+--w-rwx-w- 1 kosti   kosti       0 сак 24 09:50  [01;32m444.txt[0m
+-r-xrw-rwx 1 kosti   kosti       0 сак 24 09:55  [01;32m555.txt[0m
+----r-xrwx 1 kosti   kosti       0 сак 24 09:55  [01;32m666.txt[0m
+------xr-- 1 kosti   kosti       0 сак 24 09:55  [01;32m777.txt[0m
+-rw-rw-r-- 1 kosti   kosti       0 сак 24 09:57  888.txt
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [01;34mkostyanko[0m
+-rw-r----- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask -[K0022
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls-[K -l
+итого 60
+-rwx------ 1 kosti   kosti       0 сак 24 09:49  [0m[01;32m111.txt[0m
+-rw-r--rwx 1 kosti   kosti       0 сак 24 09:49  [01;32m222.txt[0m
+--wx---r-- 1 kosti   kosti       0 сак 24 09:50  [01;32m333.txt[0m
+--w-rwx-w- 1 kosti   kosti       0 сак 24 09:50  [01;32m444.txt[0m
+-r-xrw-rwx 1 kosti   kosti       0 сак 24 09:55  [01;32m555.txt[0m
+----r-xrwx 1 kosti   kosti       0 сак 24 09:55  [01;32m666.txt[0m
+------xr-- 1 kosti   kosti       0 сак 24 09:55  [01;32m777.txt[0m
+-rw-rw-r-- 1 kosti   kosti       0 сак 24 09:57  888.txt
+drwxr-xr-x 2 kosti   kosti    4096 сак  9 13:14  [01;34mkostyanko[0m
+-rw-r----- 1 student visitors    0 сак 24 09:44  letter.txt
+drwxr-xr-x 3 kosti   kosti    4096 сак 12 19:10  [01;34mlinux-labraboty-2020-Kosti2[0m
+-rw-r--r-- 1 kosti   kosti      90 сак 12 20:12  README.md
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  req.txt
+lrwxrwxrwx 1 kosti   kosti      31 сак 24 09:32  [40;31;01mrequest.bak[0m -> [40;31;01m/home/kosti/workdir/request.bak[0m
+-rw-r--r-- 4 kosti   kosti     140 сак 24 09:12  request.txt
+-rw-r--r-- 1 kosti   kosti     656 сак  7 12:33  test
+lrwxrwxrwx 1 kosti   kosti      20 сак 24 09:32  [01;36mwork[0m -> [01;34m/home/kosti/workdir/[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 24 09:40  [01;34mworkdir[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti   kosti    4096 сак 24 09:20 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti   kosti    4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ umask -S
+u=rwx,g=rx,o=rx
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm 111.txt 222.txt 333.txt 444.rx[K[Ktxt 555.r[Ktxt 666.txt 777 .txt 888.txt letter.txt rq[Kequest.tg[Kxt tur.txt
+rm: удалить защищенный от записи пустой обычный файл '555.txt'? 
+rm: удалить защищенный от записи пустой обычный файл '666.txt'? 
+rm: удалить защищенный от записи пустой обычный файл '777.txt'? 
+rm: удалить защищенный от записи пустой обычный файл 'letter.txt'? 
+rm: невозможно удалить 'tur.txt': Нет такого файла или каталога
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rmdir workdd[Kir
+rmdir: не удалось удалить 'workdir': Каталог не пуст
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rmdir workdir+workdir[1Pworkdir_workdir[1Pworkdir-workdirRworkdir workdir
+rmdir: неверный ключ — «R»
+По команде «rmdir --help» можно получить дополнительную информацию.
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rmdir -R workdir[1P[1P[1P
+rm: удалить защищенный от записи пустой обычный файл 'workdir/letter.txt'? 
+rm: невозможно удалить 'workdir': Каталог не пуст
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm -R workdir
+rm: удалить защищенный от записи пустой обычный файл 'workdir/letter.txt'? 
+rm: невозможно удалить 'workdir': Каталог не пуст
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo rm -R workdir
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -F
+ [0m[01;32m555.txt[0m*     [01;34mlinux-labraboty-2020-Kosti2[0m/   [40;31;01mwork[0m@          [01;34mМузыка[0m/
+ [01;32m666.txt[0m*     README.md                      [01;34mВидео[0m/         [01;34mОбщедоступные[0m[K/
+ [01;32m777.txt[0m*     req.txt                        [01;34mДокументы[0m/    [01;34m'Рабочий стол'[0m[K/
+ [01;34mkostyanko[0m/   [40;31;01mrequest.bak[0m@                   [01;34mЗагрузки[0m/      [01;34mШаблоны[0m/
+ letter.txt   test                           [01;34mИзображения[0m/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm work
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm request.bak
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm request.bak[7Pwork[2Pls -F
+ [0m[01;32m555.txt[0m*     [01;34mlinux-labraboty-2020-Kosti2[0m/   [01;34mДокументы[0m/      [01;34m'Рабочий стол'[0m[K/
+ [01;32m666.txt[0m*     README.md                      [01;34mЗагрузки[0m/        [01;34mШаблоны[0m/
+ [01;32m777.txt[0m*     req.txt                        [01;34mИзображения[0m/
+ [01;34mkostyanko[0m/   test                           [01;34mМузыка[0m/
+ letter.txt   [01;34mВидео[0m/                         [01;34mОбщедоступные[0m/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clearls -F
+ [0m[01;34mkostyanko[0m/                     [01;34mДокументы[0m/     [01;34mМузыка[0m/          [01;34mШаблоны[0m/
+ [01;34mlinux-labraboty-2020-Kosti2[0m/   [01;34mЗагрузки[0m/      [01;34mОбщедоступные[0m/
+ [01;34mВидео[0m/                         [01;34mИзображения[0m/  [01;34m'Рабочий стол'[0m/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ rm d[K[K[K[Kclear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clearls -F
+ [0m[01;34mkostyanko[0m/   [01;34mДокументы[0m/   [01;34mИзображения[0m/   [01;34mОбщедоступные[0m/   [01;34mШаблоны[0m/
+ [01;34mВидео[0m/       [01;34mЗагрузки[0m/    [01;34mМузыка[0m/       [01;34m'Рабочий стол'[0m/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls -Fla
+итого 104
+drwxr-xr-x 17 kosti kosti  4096 сак 24 10:05  [0m[01;34m.[0m/
+drwxr-xr-x  3 root  root   4096 лют 29 09:36  [01;34m..[0m/
+-rw-------  1 kosti kosti  6562 сак 24 09:24  .bash_history
+-rw-r--r--  1 kosti kosti   220 лют 29 09:36  .bash_logout
+-rw-r--r--  1 kosti kosti  3789 сак 17 08:31  .bashrc
+drwx------ 15 kosti kosti  4096 сак  9 12:44  [01;34m.cache[0m/
+drwx------ 14 kosti kosti  4096 сак 12 18:25  [01;34m.config[0m/
+drwxr-xr-x  8 kosti kosti  4096 сак 12 20:15  [01;34m.git[0m/
+-rw-r--r--  1 kosti kosti    51 сак 12 20:08  .gitconfig
+drwx------  3 kosti kosti  4096 сак  6 16:10  [01;34m.gnupg[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  9 13:14  [01;34mkostyanko[0m/
+drwx------  3 kosti kosti  4096 сак  6 16:10  [01;34m.local[0m/
+drwx------  5 kosti kosti  4096 сак  7 11:19  [01;34m.mozilla[0m/
+-rw-r--r--  1 kosti kosti   807 лют 29 09:36  .profile
+-rw-------  1 kosti kosti 12288 сак 24 09:24  .request.txt.swp
+-rw-r--r--  1 kosti kosti     0 сак  7 12:15  .sudo_as_admin_successful
+drwxr-xr-x  2 kosti kosti  4096 сак  6 16:11  [01;34mВидео[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  6 16:11  [01;34mДокументы[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак 12 18:48  [01;34mЗагрузки[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  7 12:03  [01;34mИзображения[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  6 16:11  [01;34mМузыка[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  6 16:11  [01;34mОбщедоступные[0m/
+drwxr-xr-x  7 kosti kosti  4096 сак 24 10:04 [01;34m'Рабочий стол'[0m/
+drwxr-xr-x  2 kosti kosti  4096 сак  6 16:11  [01;34mШаблоны[0m/
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ ls _L[K[K-l
+итого 36
+drwxr-xr-x 2 kosti kosti 4096 сак  9 13:14  [0m[01;34mkostyanko[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti kosti 4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti kosti 4096 сак 24 10:04 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ su
+Пароль: 
+]0;root@kosti-VirtualBox: /home/kostiroot@kosti-VirtualBox:/home/kosti# su guest[20@usermod -d /home/guest[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcl [K[K[Kls -l
+итого 36
+drwxr-xr-x 2 kosti kosti 4096 сак  9 13:14  [0m[01;34mkostyanko[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mВидео[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mДокументы[0m
+drwxr-xr-x 2 kosti kosti 4096 сак 12 18:48  [01;34mЗагрузки[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  7 12:03  [01;34mИзображения[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mМузыка[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mОбщедоступные[0m
+drwxr-xr-x 7 kosti kosti 4096 сак 24 10:04 [01;34m'Рабочий стол'[0m
+drwxr-xr-x 2 kosti kosti 4096 сак  6 16:11  [01;34mШаблоны[0m
+]0;root@kosti-VirtualBox: /home/kostiroot@kosti-VirtualBox:/home/kosti# exit
+exit
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ sudo find /usr/bin -perm -04000
+/usr/bin/umount
+/usr/bin/newgrp
+/usr/bin/gpasswd
+/usr/bin/su
+/usr/bin/passwd
+/usr/bin/chfn
+/usr/bin/mount
+/usr/bin/chsh
+/usr/bin/sudo
+/usr/bin/fusermount
+/usr/bin/pkexec
+]0;kosti@kosti-VirtualBox: ~[01;32mkosti@kosti-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+Скрипт выполнен, файл - typescript
+]0;kosti@kosti-VirtualBox: ~/Рабочий стол[01;32mkosti@kosti-VirtualBox[00m:[01;34m~/Рабочий стол[00m$ exit
+exit
+
+Script done on 2020-03-24 10:09:11+03:00 [COMMAND_EXIT_CODE="0"]
